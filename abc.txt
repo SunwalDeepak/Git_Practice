@@ -5,3 +5,4 @@ Now I am learning the stash command with or after commit another commit.
 Learning the git pull command.
 Conflict from the git side.
 Conflict from the github.com Side.
+Now I'm using the Revert Command.
