@@ -2,3 +2,4 @@ This is first line.
 This is Second line.
 Creating the another line after the stash command.
 Now I am learning the stash command with or after commit another commit.
+Learning the git pull command.
