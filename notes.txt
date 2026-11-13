@@ -1,2 +1,3 @@
 This is Notes.txt file.
 This is 2nd line after branches.
+We are in the feature-branch2.
